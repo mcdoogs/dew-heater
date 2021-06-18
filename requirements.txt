@@ -1,2 +1,4 @@
 python-dotenv>=0.17.1
 requests>=2.25.1
+Adafruit-Blinka>=6.10.2
+adafruit-circuitpython-dht>=3.6.1
